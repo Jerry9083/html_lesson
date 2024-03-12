@@ -1,0 +1,18 @@
+h1{
+    color: orange;
+    font-family: sans-serif;
+    background-color: black;
+    width: 150px;
+    border-radius: 3px;
+    border: 1px solid blue;
+}
+
+h1:hover{
+    color: red;
+    background-color: cyan;
+    transition: 2s;
+}
+
+table{
+    border: 2px;
+}
